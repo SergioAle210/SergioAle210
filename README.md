@@ -25,10 +25,12 @@
 
 ### Proyecto de Assembly X86 - Simulador de juego de ranas
 Un emocionante proyecto que demuestra mi habilidad para trabajar con Assembly X86, creando un juego llamativo de un juego de saltos con ranas siendo totalmente funcional.
+
 [![Proyecto de Assembly](https://github-readme-stats.vercel.app/api/pin/?username=SergioAle210&repo=Proyecto4_Assembly)](https://github.com/SergioAle210/Proyecto4_Assembly)
 
 ### Aplicación Android con Jetpack Compose
 Un proyecto innovador que utiliza Kotlin y Jetpack Compose para desarrollar aplicaciones Android modernas y eficientes.
+
 [![Proyecto Android Compose](https://github-readme-stats.vercel.app/api/pin/?username=SergioAle210&repo=android-compose-uvg)](https://github.com/SergioAle210/android-compose-uvg)
 
 ## 📚 Aprendiendo y Creciendo
