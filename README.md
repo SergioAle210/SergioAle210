@@ -1,4 +1,4 @@
-# Hola, soy Sergio 👋
+# Hola, soy Sergio Orellana👋
 
 ## Sobre mí
 👨‍💻 Soy un desarrollador con experiencia en una amplia gama de lenguajes de programación y tecnologías, incluyendo HTML, Python, Java, CSS, Kotlin, y Assembly X86. Tengo experiencia trabajando en entornos Linux y Mac y actualmente estoy expandiendo mis habilidades en SQL, bases de datos, y el stack completo de desarrollo web con HTML, CSS y JavaScript.
