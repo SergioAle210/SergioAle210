@@ -58,10 +58,6 @@ Soy estudiante de Ingeniería en Ciencias de la Computación en la Universidad d
 | **Simulador de juego de ranas (Assembly)** | Assembly X86                 | [Ver repositorio](https://github.com/SergioAle210/Proyecto4_Assembly) |
 | **App Android con Jetpack Compose**        | Kotlin · Jetpack Compose     | [Ver repositorio](https://github.com/SergioAle210/android-compose-uvg)   |
 
-## 📚 En Aprendizaje
-- Profundizando en **bases de datos** y **SQL avanzado**.  
-- Explorando el **stack completo** de desarrollo web con JavaScript moderno.
-
 ## 📫 Contáctame
 - ✉️ sergioalejandro210@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sergio-orellana) · [GitHub](https://github.com/SergioAle210)  
